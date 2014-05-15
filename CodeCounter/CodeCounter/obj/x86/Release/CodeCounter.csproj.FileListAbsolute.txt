@@ -1,0 +1,5 @@
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\bin\Release\CodeCounter.exe
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\obj\x86\Release\CodeCounter.MainForm.resources
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\obj\x86\Release\CodeCounter.csproj.GenerateResource.Cache
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\obj\x86\Release\CodeCounter.exe

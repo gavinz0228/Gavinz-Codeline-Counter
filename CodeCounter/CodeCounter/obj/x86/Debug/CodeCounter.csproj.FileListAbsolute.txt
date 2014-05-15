@@ -1,0 +1,14 @@
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.MainForm.resources
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.csproj.GenerateResource.Cache
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\bin\Debug\CodeCounter.pdb
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.exe
+C:\Users\wr8662\Desktop\Files\SharpDevelop\Documents\SharpDevelop Projects\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.pdb
+E:\Important backup\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.exe
+E:\Important backup\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.pdb
+E:\Important backup\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.csprojResolveAssemblyReference.cache
+E:\Important backup\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.MainForm.resources
+E:\Important backup\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.csproj.GenerateResource.Cache
+E:\Important backup\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe
+E:\Important backup\CodeCounter\CodeCounter\bin\Debug\CodeCounter.pdb
